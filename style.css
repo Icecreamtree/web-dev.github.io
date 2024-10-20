@@ -19,6 +19,11 @@ body {
     font-size: 20px;
     animation: movement 1.5s linear infinite;
 }
+.logo {
+    margin-left: auto; 
+    margin-right: auto;
+    width: 200%;
+}
 @keyframes movement {
     55% {
         left: 2px
