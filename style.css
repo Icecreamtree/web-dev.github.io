@@ -17,18 +17,18 @@ body {
     animation: movement 1.5s linear infinite;
 }
 @keyframes movement {
-  55% {
-    left: 2px
-  }
-  65% {
-    left: 3px
-  }
-  72% {
-    left: 4px
-  }
-  100% {
-    left: 6px
-  }
+    55% {
+        left: 2px
+    }
+    65% {
+        left: 3px
+    }
+    72% {
+        left: 4px
+    }
+    100% {
+        left: 6px
+    }
   
 }
 
