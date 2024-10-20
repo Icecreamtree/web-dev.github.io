@@ -7,18 +7,6 @@ h1 {
     text-shadow: 2px 2px; /*This is lame*/
 }
 body {
-    background: lightskyblue;
+    background-color: lightblue;
 }
-button {
-    color: black;
-    background-color: white;
-    border-radius: 15px;
-    border: solid 2px black;
-    padding: 10px 20px;
-    transition-duration: 0.4s;
-}
-button:hover {
-    color: white;
-    background-color: black;
-    border: solid 2px black;
-}
+
