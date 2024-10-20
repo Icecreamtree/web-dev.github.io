@@ -7,7 +7,10 @@ h1 {
     text-shadow: 2px 2px; /*This is lame*/
 }
 img {
-    float: right;
+    display: block;
+    margin-left: auto; 
+    margin-right: auto;
+    width: auto;
 }
 body {
     background-color: lightblue;
