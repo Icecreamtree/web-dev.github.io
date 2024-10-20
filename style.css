@@ -6,6 +6,9 @@ h1 {
     font-weight: normal;
     text-shadow: 2px 2px; /*This is lame*/
 }
+img {
+    float: right;
+}
 body {
     background-color: lightblue;
 }
