@@ -20,23 +20,8 @@ body {
     font-weight: 400;
     font-style: normal;
     font-size: 20px;
-    animation: movement 1.5s linear infinite;
 }
 
-@keyframes movement {
-    55% {
-        left: 2px
-    }
-    65% {
-        left: 3px
-    }
-    72% {
-        left: 4px
-    }
-    100% {
-        left: 6px
-    }
-  
 }
 
 
