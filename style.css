@@ -14,6 +14,7 @@ img {
 }
 body {
     background-color: lightblue;
+    margin: auto;
 }
 .agdasimaRegular {
     font-family: "Agdasima", sans-serif;
