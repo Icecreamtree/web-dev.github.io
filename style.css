@@ -14,9 +14,6 @@ img {
 }
 body {
     background-color: lightblue;
-    margin-left: auto;
-    margin-right: auto;
-    text-align: center;
 }
 .agdasimaRegular {
     font-family: "Agdasima", sans-serif;
@@ -27,5 +24,9 @@ body {
 #troyLogo {
 width: 100px;
 }
-
+p {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
 
