@@ -4,7 +4,7 @@ h1 {
     text-align: center;
     font-family: "Source Sans Pro", 'Times New Roman', Times, serif;
     font-weight: 100px;
-    text-shadow: -2px 2px; /*This is lame*/
+    text-shadow: -2px 2px 8px; /*This is lame*/
     animation-name: text;
     animation-duration: 1s;
     animation-timing-function: linear;
